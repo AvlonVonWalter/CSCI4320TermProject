@@ -1,6 +1,6 @@
 # 🛒 Electronics eCommerce Platform
 
-This project is a full-stack eCommerce website for electronics shopping, developed as part of my CSCI 4320 Software Engineering course. It includes user registration, product browsing, cart management, checkout, and email notifications — all within a secure, database-driven web platform.
+This project is a full-stack eCommerce website for electronics shopping, developed as part of my CSCI 4320 Software Engineering course. It includes user registration, product browsing, cart management, checkout, and email notifications, all within a secure, database-driven web platform.
 
 ---
 
